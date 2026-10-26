@@ -1,4 +1,4 @@
-# RC-CA# 🚗 Arduino-Based Bluetooth Controlled RC Car
+# RC-CAR# 🚗 Arduino-Based Bluetooth Controlled RC Car
 
 A 2WD Remote-Controlled Car built using Arduino and Bluetooth technology. The car can be controlled wirelessly through a smartphone using an HC-05 Bluetooth module.
 
